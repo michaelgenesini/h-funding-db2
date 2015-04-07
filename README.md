@@ -1,2 +1,4 @@
-# h-funding-db2
-Porting of my academic project with Oracle DB2
+H-Funding
+=========
+
+Accademic project: Crowdfunding Platform written with Ruby On Rails
